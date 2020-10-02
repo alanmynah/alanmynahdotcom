@@ -1,46 +1,81 @@
 <style>
-	h1, figure, p {
-		text-align: center;
-		margin: 0 auto;
+	.home-container {
+		align-items: center;
+		display: flex;
+		flex: 1;
+		justify-content: center;
+		margin: 2em 0;
+		min-height: 400px;
+	}
+
+	.home-copy {
+		flex: 1;
 	}
 
 	h1 {
-		font-size: 2.8em;
-		text-transform: uppercase;
 		font-weight: 700;
-		margin: 0 0 0.5em 0;
+		margin-bottom: 0.5em;
+	}
+
+	p {
+		font-size: 1.4em;
+		line-height: 1.5;
 	}
 
 	figure {
-		margin: 0 0 1em 0;
+		margin: 0 1em;
+		text-align: center;
+	}
+
+	figcaption {
+		font-size: 0.8em;
+		font-style: italic;
 	}
 
 	img {
 		width: 100%;
 		max-width: 400px;
-		margin: 0 0 1em 0;
 	}
 
-	p {
-		margin: 1em auto;
+	@media (max-width: 1020px) {
+		p {
+			font-size: 1.2em;
+		}
+
+		img {
+			max-width: 300px;
+		}
 	}
 
-	@media (min-width: 480px) {
-		h1 {
-			font-size: 4em;
+	@media (max-width: 800px) {
+		.home-container {
+			flex-direction: column;
+		}
+
+		.home-copy {
+			flex: 0;
+			padding-bottom: 2em;
+			text-align: center;
 		}
 	}
 </style>
 
 <svelte:head>
-	<title>Sapper project template</title>
+	<title>Sapper Blog Template</title>
 </svelte:head>
 
-<h1>Great success!</h1>
+<div class="home-container">
+	<div class="home-copy">
+		<h1>Welcome to your new Sapper Blog</h1>
+		<p>
+			Check out the docs on
+			<a href="https://www.github.com/Charca/sapper-blog-template" target="_blank">GitHub</a>
+			to get started.
+		</p>
+	</div>
 
-<figure>
-	<img alt='Success Kid' src='successkid.jpg'>
-	<figcaption>Have fun with Sapper!</figcaption>
-</figure>
-
-<p><strong>Try editing this file (src/routes/index.svelte) to test live reloading.</strong></p>
+	<figure>
+		<img alt="Person relaxing under a tree" src="undraw-person-under-tree.svg" />
+		<figcaption>Illustration thanks to <a href="https://undraw.co" target="_blank">Undraw</a></figcaption>
+	</figure>
+</div>
