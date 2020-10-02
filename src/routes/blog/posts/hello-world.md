@@ -1,12 +1,10 @@
 ---
 title: Hello World 👋
-date: "2019-06-11T08:38:00.000Z"
+date: '2019-06-11T08:38:00.000Z'
 ---
 
-Every blog starts with a single post. This is yours. Make it great.
+Hello World! First blog
 
 <!-- more -->
 
-This post intentionally left blank.
-
-Write what you want.
+Thanks to [Charca and contributors for the amazing template to set this up.](https://github.com/Charca/sapper-blog-template)
