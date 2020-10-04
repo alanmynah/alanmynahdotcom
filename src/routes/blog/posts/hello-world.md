@@ -1,6 +1,6 @@
 ---
 title: Hello World 👋
-date: '2020-10-02T17:50:00.000Z'
+date: 2020-10-02T17:50:00.000Z
 ---
 
 Hello World! First blog
