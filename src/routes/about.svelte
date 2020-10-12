@@ -34,8 +34,12 @@
 	<p>
 		My name is Michael and I am an Aerospace Engineer by education, (English language) teacher and educator by
 		ardour, and a Software Engineer by vocation. Active in the Scrimba community where I share my love for code and
-		learning. I was born in Ukraine 🇺🇦 (it's north of the Black Sea), lived all around the UK 🇬🇧, and am currently
-		in Wales 🏴󠁧󠁢󠁷󠁬󠁳󠁿 (it's even cooler than the flag! don't tell anyone 🤫).
+		learning.
+	</p>
+
+	<p>
+		I was born in Ukraine 🇺🇦 (it's north of the Black Sea), lived all around the UK 🇬🇧, and am currently in Wales 🏴󠁧󠁢󠁷󠁬󠁳󠁿
+		(it's even cooler than the flag! don't tell anyone 🤫).
 	</p>
 
 	<p>
@@ -55,7 +59,7 @@
 		"Alan Mynah" is a pseudonym, where 'Alan' is after
 		<a href="https://en.wikipedia.org/wiki/Alan_Sillitoe" target="_blank">Alan Sillitoe</a>
 		and 'Mynah' is because
-		<a href="https://www.thesprucepets.com/mynah-birds-as-pets-3975149" target="_blank">myna birds</a>
+		<a href="https://www.thesprucepets.com/mynah-birds-as-pets-3975149" target="_blank">mynah birds</a>
 		are awesome.
 	</p>
 
