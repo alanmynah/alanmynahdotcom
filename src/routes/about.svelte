@@ -34,10 +34,14 @@
 	<p>
 		My name is Michael and I am an Aerospace Engineer by education, (English language) teacher and educator by
 		ardour, and a Software Engineer by vocation. Active in the Scrimba community where I share my love for code and
-		learning. I was born in Ukraine 🇺🇦 (it's north of Black Sea), lived all around the UK 🇬🇧 and am currently in
-		Wales 🏴󠁧󠁢󠁷󠁬󠁳󠁿 (it's even cooler than the flag! don't tell anyone 🤫), developer at
+		learning. I was born in Ukraine 🇺🇦 (it's north of the Black Sea), lived all around the UK 🇬🇧, and am currently
+		in Wales 🏴󠁧󠁢󠁷󠁬󠁳󠁿 (it's even cooler than the flag! don't tell anyone 🤫).
+	</p>
+
+	<p>
+		Developer at
 		<a href="https://www.huddle.com/" target="_blank">Huddle</a>
-		and a factotum at
+		, and a factotum at
 		<a href="https://scrimba.com/" target="_blank">Scrimba</a>.
 	</p>
 
