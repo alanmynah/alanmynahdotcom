@@ -22,8 +22,8 @@
 	<img src="profile-pic.png" alt="Maxi Ferreira" />
 	<p>
 		Hi, I'm
-		<strong>Michael</strong>. I'm a developer from the UK. You can follow me on
-		<a href="https://www.twitter.com/michael_mynah" target="_blank">Twitter</a>, poke around my profile on
+		<strong>Michael</strong>. I'm a developer based in the UK. You can follow me on
+		<a href="https://www.twitter.com/alanmynah" target="_blank">Twitter</a>, poke around my profile on
 		<a href="https://www.github.com/alanmynah" target="_blank">GitHub</a>, or subscribe to
 		<a href="https://dev.to/alanmynah" target="_blank">my blog on DEV.to</a>.
 	</p>
