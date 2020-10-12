@@ -1,6 +1,11 @@
 <style>
 	a {
-		padding: 0.25rem;
+		padding: 0.8rem;
+	}
+	@media (max-width: 800px) {
+		a {
+			padding: 0.2rem;
+		}
 	}
 	img {
 		display: block;

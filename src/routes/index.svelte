@@ -78,7 +78,7 @@
 	</div>
 
 	<figure>
-		<img alt="Person relaxing under a tree" src="undraw-person-under-tree.svg" />
-		<figcaption>Illustration thanks to <a href="https://undraw.co" target="_blank">Undraw</a></figcaption>
+		<img alt="A pic of Leanne and me holding rabbits" src="profile-pic-frontpage.jpeg" />
+		<figcaption>Leanne and I in Japan</figcaption>
 	</figure>
 </div>

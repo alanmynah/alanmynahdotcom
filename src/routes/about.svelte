@@ -31,31 +31,29 @@
 			on Unsplash
 		</figcaption>
 	</figure>
-	<p>Text placeholder via <a href="https://jeffsum.com/" target="_blank">Jeffsum</a>.</p>
 	<p>
-		So you two dig up, dig up dinosaurs? What do they got in there? King Kong? My dad once told me, laugh and the
-		world laughs with you, Cry, and I'll give you something to cry about you little bastard! Life finds a way. God
-		creates dinosaurs. God destroys dinosaurs. God creates Man. Man destroys God. Man creates Dinosaurs.
+		My name is Michael and I am an Aerospace Engineer by education, (English language) teacher and educator by
+		ardour, and a Software Engineer by vocation. Active in the Scrimba community where I share my love for code and
+		learning. I was born in Ukraine 🇺🇦 (it's north of Black Sea), lived all around the UK 🇬🇧 and am currently in
+		Wales 🏴󠁧󠁢󠁷󠁬󠁳󠁿 (it's even cooler than the flag! don't tell anyone 🤫), developer at
+		<a href="https://www.huddle.com/" target="_blank">Huddle</a>
+		and a factotum at
+		<a href="https://scrimba.com/" target="_blank">Scrimba</a>.
 	</p>
+
 	<p>
-		You really think you can fly that thing? You know what? It is beets. I've crashed into a beet truck. Forget the
-		fat lady! You're obsessed with the fat lady! Drive us out of here! Is this my espresso machine? Wh-what is-h-how
-		did you get my espresso machine?
+		<i>“A jack of all trades is a master of none, but oftentimes better than a master of one.”</i>
+		is a cliche that describes me pretty well, although I generally prefer to add
+		<i>'A master of one is a connector of none'</i>.
 	</p>
+
 	<p>
-		Hey, you know how I'm, like, always trying to save the planet? Here's my chance. Hey, take a look at the
-		earthlings. Goodbye! I was part of something special. Just my luck, no ice. You're a very talented young man,
-		with your own clever thoughts and ideas. Do you need a manager?
+		"Alan Mynah" is a pseudonym, where 'Alan' is after
+		<a href="https://en.wikipedia.org/wiki/Alan_Sillitoe" target="_blank">Alan Sillitoe</a>
+		and 'Mynah' is because
+		<a href="https://www.thesprucepets.com/mynah-birds-as-pets-3975149" target="_blank">myna birds</a>
+		are awesome.
 	</p>
-	<p>
-		Jaguar shark! So tell me - does it really exist? This thing comes fully loaded. AM/FM radio, reclining bucket
-		seats, and... power windows. Yes, Yes, without the oops! You're a very talented young man, with your own clever
-		thoughts and ideas. Do you need a manager?
-	</p>
-	<p>
-		Yes, Yes, without the oops! Do you have any idea how long it takes those cups to decompose. They're using our
-		own satellites against us. And the clock is ticking. Do you have any idea how long it takes those cups to
-		decompose. My dad once told me, laugh and the world laughs with you, Cry, and I'll give you something to cry
-		about you little bastard!
-	</p>
+
+	<p>It's also much easier to spell than 'Rybintsev'.</p>
 </div>
