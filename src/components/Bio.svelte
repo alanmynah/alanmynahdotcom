@@ -24,7 +24,8 @@
 		Hi, I'm
 		<strong>Michael</strong>. I'm a developer based in the UK. You can follow me on
 		<a href="https://www.twitter.com/alanmynah" target="_blank">Twitter</a>, poke around my profile on
-		<a href="https://www.github.com/alanmynah" target="_blank">GitHub</a>, or subscribe to
-		<a href="https://dev.to/alanmynah" target="_blank">my blog on DEV.to</a>.
+		<a href="https://www.github.com/alanmynah" target="_blank">GitHub</a>
+		or subscribe to
+		<a href="https://tinyletter.com/alanmynah" target="_blank">my newsletter</a>.
 	</p>
 </div>
