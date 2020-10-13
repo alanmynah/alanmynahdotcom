@@ -70,7 +70,7 @@
 		<p>
 			I
 			<a href="https://github.com/alanmynah" target="_blank">learn</a>,
-			<a href="/blog" target="_blank">write about</a>
+			<a rel="prefetch" href="/blog" target="_blank">write about</a>
 			and
 			<a href="https://scrimba.com/" target="_blank">help others learn</a>
 			code.
