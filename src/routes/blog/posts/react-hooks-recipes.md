@@ -37,9 +37,7 @@ If you are completely new to React, that’s no problem, I can wait for 5 minute
 
 Not a huge fan of complicated setups. There are as many ways to set up React apps as there are React developers, so if you have a favourite setup, feel free to use it.
 
-For this tutorial, here’s an HTML file which imports React and ReactDOM libraries via CDN using `<script>` tags:
-
-{% gist https://gist.github.com/alanmynah/48b6ee4452b63d19afc0a2a737a5aeb2 %}
+For this tutorial, here’s an HTML file which imports React and ReactDOM libraries via CDN using `<script>` tags (see [this gist](https://gist.github.com/alanmynah/48b6ee4452b63d19afc0a2a737a5aeb2) for an example).
 
 Alternatively, you can also experiment with the code in this [React Scrimba playground](https://scrimba.com/c/ckMbdafa)
 
@@ -330,7 +328,7 @@ Congratulations. You now know the very fundamental hooks and even more important
 
 ## Full code
 
-{% gist https://gist.github.com/alanmynah/4f79f8c61a098cb6c331e2af3cc3c0f3 %}
+[Github gist with ALL the code](https://gist.github.com/alanmynah/4f79f8c61a098cb6c331e2af3cc3c0f3)
 
 ## Continue learning React
 
