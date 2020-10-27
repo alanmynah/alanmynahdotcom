@@ -1,5 +1,5 @@
 ---
-title: Create a neat RSVP card with pure CSS.
+title: Create a neat RSVP card with pure CSS
 date: 2020-10-04T13:41:00.000Z
 ---
 
