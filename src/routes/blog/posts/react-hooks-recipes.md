@@ -1,5 +1,5 @@
 ---
-title: Build an app to find your next meal with React Hooks
+title: Learn React Hooks and find something to eat - Recipe App
 date: 2020-10-04T14:01:00.000Z
 ---
 
@@ -7,7 +7,7 @@ Use whatever you have left in your fridge, cut waste and learn React Hooks.
 
 <!-- more -->
 
-## A quick React Hooks tutorial to get you started
+## React Hooks tutorial to get you started
 
 In this tutorial, we will learn the basics of React hooks by building a recipe finder application.
 
