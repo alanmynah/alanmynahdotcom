@@ -21,7 +21,7 @@ Our friends, Milgrom and Wilson, thought of some formats that are designed to re
 
 For example, use multiple rounds, and between each round, information about all the bids is revealed, so everyone knows what’s everyone bidding, so no one is afraid they are overbidding. The next round has a minimum bid of a maximum bid from the previous round. This is repeated until there is a clear winner. The seller gets top dollar, and the winner knows that what they are getting is well-valued by the other market participants.
 
-## The key question
+## Can devs use this for job offers?
 
 Do I think candidates can get over the initial awkwardness of the notion and ditch the current best practices?
 
