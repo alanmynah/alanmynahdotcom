@@ -43,6 +43,9 @@
 <svelte:head>
 	<title>{post.title}</title>
 	<link rel="canonical" href={`https://alanmynah.com/blog/${post.slug}`} />
+	<meta name="twitter:card" content="summary_large_image" />
+	<meta name="twitter:domain" value="alanmynah.com" />
+	<meta name="twitter:creator" value="https://twitter.com/alanmynah/" />
 </svelte:head>
 
 <header>
