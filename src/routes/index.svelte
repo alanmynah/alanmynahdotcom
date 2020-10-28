@@ -78,7 +78,9 @@
 	</div>
 
 	<figure>
-		<img alt="A pic of Leanne and me holding rabbits" src="profile-pic-frontpage.jpeg" />
-		<figcaption>Leanne and I in Japan</figcaption>
+		<img alt="A picture of me standing somewhere" src="me-small.jpg" />
+		<figcaption>
+			Me standing somewhere in London, credit to [@skatersezo](https://twitter.com/skatersezo)
+		</figcaption>
 	</figure>
 </div>

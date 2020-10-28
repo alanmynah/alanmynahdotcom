@@ -48,13 +48,13 @@
 	<meta property="og:title" content={post.title} />
 	<meta name="Description" content={post.excerpt} />
 	<meta property="og:description" content={post.excerpt} />
-	<meta property="og:image" content="https://alanmynah.com/me-twitter.jpg" />
+	<meta property="og:image" content="https://alanmynah.com/twitter-card.png" />
 	<meta name="twitter:card" content="summary_large_image" />
 	<meta name="twitter:domain" value="alanmynah.com" />
 	<meta name="twitter:creator" value="https://twitter.com/alanmynah/" />
 	<meta name="twitter:title" value={post.title} />
 	<meta name="twitter:description" content={post.excerpt} />
-	<meta name="twitter:image" content="https://alanmynah.com/me-twitter.jpg" />
+	<meta name="twitter:image" content="https://alanmynah.com/twitter-card.png" />
 	<meta name="twitter:label1" value="Published on" />
 	<meta
 		name="twitter:data1"

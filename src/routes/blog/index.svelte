@@ -36,12 +36,12 @@
 	<meta property="og:url" content={`https://alanmynah.com/blog/`} />
 	<meta property="og:type" content="blog" />
 	<meta property="og:title" content="alanmynah's blog" />
-	<meta property="og:image" content="https://alanmynah.com/profile-pic.png" />
+	<meta property="og:image" content="https://alanmynah.com/me-small.jpg" />
 	<meta name="twitter:card" content="summary_large_image" />
 	<meta name="twitter:domain" value="alanmynah.com" />
 	<meta name="twitter:creator" value="https://twitter.com/alanmynah/" />
 	<meta name="twitter:title" value="Personal Blog" />
-	<meta name="twitter:image" content="https://alanmynah.com/profile-pic.png" />
+	<meta name="twitter:image" content="https://alanmynah.com/me-small.jpg" />
 </svelte:head>
 
 <div class="container">
