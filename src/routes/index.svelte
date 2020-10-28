@@ -80,7 +80,8 @@
 	<figure>
 		<img alt="A picture of me standing somewhere" src="me-small.jpg" />
 		<figcaption>
-			Me standing somewhere in London, credit to [@skatersezo](https://twitter.com/skatersezo)
+			Me standing somewhere in London, credit to
+			<a href="https://twitter.com/skatersezo" target="_blank">@skatersezo</a>
 		</figcaption>
 	</figure>
 </div>
