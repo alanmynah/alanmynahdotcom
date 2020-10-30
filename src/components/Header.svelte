@@ -13,6 +13,13 @@
 		padding: 2em;
 		width: 100%;
 	}
+
+	@media (max-width: 600px) {
+		header {
+			flex-direction: column;
+			justify-content: space-evenly;
+		}
+	}
 </style>
 
 <header>

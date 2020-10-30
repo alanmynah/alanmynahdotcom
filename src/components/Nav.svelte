@@ -46,6 +46,12 @@
 	.selected::before {
 		background: #fd6378;
 	}
+
+	@media (max-width: 600px) {
+		nav {
+			justify-content: space-evenly;
+		}
+	}
 </style>
 
 <nav>
