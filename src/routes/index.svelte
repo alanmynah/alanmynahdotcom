@@ -58,6 +58,12 @@
 			text-align: center;
 		}
 	}
+
+	@media (max-width: 360px) {
+		.home-copy {
+			padding-left: 2.5em;
+		}
+	}
 </style>
 
 <svelte:head>
