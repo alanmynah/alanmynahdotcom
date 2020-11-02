@@ -1,19 +1,54 @@
 ---
-title: What's an API?
+title: What is an API?
 date: 2020-10-02T17:50:00.000Z
 ---
 
-What's an API?
+What exactly is an API? The explanation for beginners without metaphors about waiters or taxi drivers!
+
 <!-- more -->
 
-That is a very broad question and i can totally relate to how confusing it can oftentimes be, especially with all the metaphors. I'm feeling that on some level the waiter metaphor is now insufficient, so will try to avoid using them and use some comparisons.
+## What exactly is an API?
 
-Let's step back for a second. If you were to explain what a UI is to someone who isn't into web dev? Well, netflix has a UI, you can click on shows with a cursor and you can use keyboard to search. But on your phone the UI uses fingers and touchscreen keyboard. I don't know what car you drive, or whether you drive, but i'm certain that you have seen the older versions where the stereo gets operated with knobs and buttons and more modern versions have touchscreens. All of these are User Interfaces.
+Any aspiring developer, product(project) manager new to the software industry, eventually gets hit with the term `API` and when questioned about the exact meaning of this acronym, encounters a lot of hand-waving and generic statements. Add all sorts of metaphors about waiters, beers (possibly because it makes people think of IPA), and waiters bringing your unwilling teacher's favourite beverages.
 
-Well, APIs (Applications Programming Interfaces) are similar for developers.
+> `API` stands for - **A**pplication **P**rogramming **I**nterface
 
-Users interact with UIs that developers wrote by interacting with APIs that other/same developers wrote.
+Officially, `API` stands for - **A**pplication **P**rogramming **I**nterface, but that doesn't clarify anything, does it? Otherwise, you wouldn't be reading this.
 
-So developers write programs that expose some interactive points for others to use. API became a catch-all term for these interfaces exposed over the web using, but not limited to, http.
+## Start from `UI`
 
-Why API and not just use database straight away? Say, you're in a research lab, collecting weather data. Your institute probably wants to collect loads of data points from across the country and with a fair amount of weather stations, you can't just give username and password to your database to everyone. For one, you'll have to teach them all SQL and secondly, managing those users will be a pain, what if one doesn't play ball or someone accidentally deletes it? It's your data and integrity is important. You have a simple MySQL db and you write some nodejs code that does the basic data updates.
+Let's start from some solid ground. When you go to any website, you see a collection of buttons, links, dropdowns, text fields, and date pickers. As a whole, it is a way for us, users, to interact with the system.
+
+> **U**ser **I**nterfaces are for us, users, to interact with systems.
+
+We say it's a **U**ser **I**nterface. Netflix has one, when you go to watch a film on your laptop, you use a keyboard and a mouse to interact with the `UI`. On your TV, it's a clunky remote. And on your phone, you use your fingers to tap on the screen.
+
+Some cars have stereos that get operated with knobs and buttons and more modern versions have touchscreens. All of these are **U**ser **I**nterfaces.
+
+## `UI` is a gateway into `API`
+
+`API`s are ways for us, developers, to interact with programs.
+
+> **A**pplication **P**rogramming **I**nterfaces, are for us, developers, to interact with systems.
+
+Users interact with `UI`s that developers wrote by interacting with APIs that other (or same) developers created.
+
+Developers write programs that expose some interactive points for others to use.
+
+## Why create API?
+
+I can sense a question: "Why to create a program to interact with another program that does what I want? Why not have one?"
+
+`UI`s only care about creating a pretty, intuitive, and safe environment for your users to access the services you provide.
+
+`API`s only care about providing access to these services in a secure, consistent, and reasonably fast manner.
+
+Mixing the two is possible, but the industry found that separating concerns is a pretty good idea.
+
+## Summary
+
+`API` is simply a catch-all term for interaction points exposed by one program for developers to use to create their own.
+
+The reason for such monumental confusion is because the term 'API' is oftentimes used proverbially and sometimes as a replacement for words like 'system', 'services', 'backend', or your companies moniker, like 'the beast', 'monster', 'flake', etc.
+
+Hope this clears things up and if you've still got some questions, feel free to get in touch!
