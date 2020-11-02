@@ -43,7 +43,7 @@ I can sense a question: "Why to create a program to interact with another progra
 
 `API`s only care about providing access to these services in a secure, consistent, and reasonably fast manner.
 
-Mixing the two is possible, but the industry found that separating concerns is a pretty good idea.
+Mixing the two is possible, but the industry found that [separating concerns](https://en.wikipedia.org/wiki/Separation_of_concerns#:~:text=In%20computer%20science%2C%20separation%20of,code%20of%20a%20computer%20program.) is a pretty good idea.
 
 ## Summary
 
