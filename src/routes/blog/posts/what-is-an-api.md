@@ -1,6 +1,6 @@
 ---
 title: What is an API?
-date: 2020-10-02T17:50:00.000Z
+date: 2020-11-02T17:50:00.000Z
 ---
 
 What exactly is an API? The explanation for beginners without metaphors about waiters or taxi drivers!
