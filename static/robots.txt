@@ -1,5 +1,5 @@
-UserAgent: '*'
-Disallow: '/wp-login.php'
-Disallow: '/*/wp-includes/*'
-Disallow: '/ads.txt'
-Disallow: '/xmlrpc.php'
+user-agent: *
+disallow: /wp-login.php
+disallow: /*/wp-includes/*
+disallow: /ads.txt
+disallow: /xmlrpc.php
