@@ -49,8 +49,8 @@
 			&copy;
 			{new Date().getFullYear()}
 			Michael Rybintsev's Blog. Powered by
-			<a href="https://sapper.svelte.dev" target="_blank">Sapper</a>. Template by
-			<a href="https://www.twitter.com/Charca" target="_blank">Maxi Ferreira</a>.
+			<a rel="noopener noreferrer" href="https://sapper.svelte.dev" target="_blank">Sapper</a>. Template by
+			<a rel="noopener noreferrer" href="https://www.twitter.com/Charca" target="_blank">Maxi Ferreira</a>.
 		</span>
 	</footer>
 </div>

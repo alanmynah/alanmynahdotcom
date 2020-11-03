@@ -17,8 +17,12 @@
 </style>
 
 <div>
-	<a href="https://github.com/alanmynah"> <img alt="My github" src="github.svg" /> </a>
-	<a href="https://www.linkedin.com/in/mykhailo-rybintsev-927839141/"> <img alt="My github" src="linkedin.svg" /> </a>
-	<a href="https://twitter.com/alanmynah"> <img alt="My github" src="twitter.svg" /> </a>
-	<a href="https://tinyletter.com/alanmynah"> <img alt="My github" src="tinyletter.svg" /> </a>
+	<a rel="noopener noreferrer" href="https://github.com/alanmynah"> <img alt="My github" src="github.svg" /> </a>
+	<a rel="noopener noreferrer" href="https://www.linkedin.com/in/mykhailo-rybintsev-927839141/">
+		<img alt="My github" src="linkedin.svg" />
+	</a>
+	<a rel="noopener noreferrer" href="https://twitter.com/alanmynah"> <img alt="My github" src="twitter.svg" /> </a>
+	<a rel="noopener noreferrer" href="https://tinyletter.com/alanmynah">
+		<img alt="My github" src="tinyletter.svg" />
+	</a>
 </div>

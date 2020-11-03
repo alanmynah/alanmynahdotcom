@@ -75,10 +75,10 @@
 		<h1>Welcome to alanmynah.com</h1>
 		<p>
 			I
-			<a href="https://github.com/alanmynah" target="_blank">learn</a>,
+			<a rel="noopener noreferrer" href="https://github.com/alanmynah" target="_blank">learn</a>,
 			<a rel="prefetch" href="/blog" target="_blank">write about</a>
 			and
-			<a href="https://scrimba.com/" target="_blank">help others learn</a>
+			<a rel="noopener" href="https://scrimba.com/" target="_blank">help others learn</a>
 			code.
 		</p>
 	</div>
@@ -87,7 +87,7 @@
 		<img alt="A picture of me standing somewhere" src="me-small.jpg" />
 		<figcaption>
 			Me standing somewhere in London, credit to
-			<a href="https://twitter.com/skatersezo" target="_blank">@skatersezo</a>
+			<a rel="noopener noreferrer" href="https://twitter.com/skatersezo" target="_blank">@skatersezo</a>
 		</figcaption>
 	</figure>
 </div>

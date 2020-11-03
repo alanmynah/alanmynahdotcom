@@ -27,7 +27,7 @@
 		<img src="martin-garrido-cVUPic1cbd4-unsplash.jpg" alt="Image of a Keychron keyboard." />
 		<figcaption>
 			Photo by
-			<a href="https://unsplash.com/@89nodes" target="_blank">Martin Garrido</a>
+			<a rel="noopener noreferrer" href="https://unsplash.com/@89nodes" target="_blank">Martin Garrido</a>
 			on Unsplash
 		</figcaption>
 	</figure>
@@ -44,9 +44,9 @@
 
 	<p>
 		Developer at
-		<a href="https://www.huddle.com/" target="_blank">Huddle</a>
+		<a rel="noopener noreferrer" href="https://www.huddle.com/" target="_blank">Huddle</a>
 		, and a factotum at
-		<a href="https://scrimba.com/" target="_blank">Scrimba</a>.
+		<a rel="noopener noreferrer" href="https://scrimba.com/" target="_blank">Scrimba</a>.
 	</p>
 
 	<p>
@@ -57,9 +57,12 @@
 
 	<p>
 		"Alan Mynah" is a pseudonym, where 'Alan' is after
-		<a href="https://en.wikipedia.org/wiki/Alan_Sillitoe" target="_blank">Alan Sillitoe</a>
+		<a rel="noopener noreferrer" href="https://en.wikipedia.org/wiki/Alan_Sillitoe" target="_blank">Alan Sillitoe</a>
 		and 'Mynah' is because
-		<a href="https://www.thesprucepets.com/mynah-birds-as-pets-3975149" target="_blank">mynah birds</a>
+		<a
+			rel="noopener noreferrer"
+			href="https://www.thesprucepets.com/mynah-birds-as-pets-3975149"
+			target="_blank">mynah birds</a>
 		are awesome.
 	</p>
 

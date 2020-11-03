@@ -58,5 +58,8 @@
 	<a class={segment === undefined ? 'selected' : ''} href=".">home</a>
 	<a class={segment === 'about' ? 'selected' : ''} href="about">about</a>
 	<a rel="prefetch" class={segment === 'blog' ? 'selected' : ''} href="blog">blog</a>
-	<a class={segment === 'garden' ? 'selected' : ''} href="https://garden.alanmynah.com/explore">garden</a>
+	<a
+		rel="noopener noreferrer"
+		class={segment === 'garden' ? 'selected' : ''}
+		href="https://garden.alanmynah.com/explore">garden</a>
 </nav>
