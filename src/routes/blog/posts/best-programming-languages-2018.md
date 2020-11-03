@@ -13,11 +13,11 @@ Javascript is everywhere, and 2 more that might be worth your time
 
 It’s everywhere and learning materials are good (just look at courses from [freeCodeCamp](https://www.freecodecamp.org/), [Scott Tolinski](https://www.scotttolinski.com/), [Cory House](https://medium.com/@housecor), [Wes Bos](https://wesbos.com/), [Per Harald Borgen](https://medium.com/@perborgen)) The community is great, plenty of jobs and it looks like even more is coming. Downside: it’s everywhere, a lot to learn, no a sh*tload to learn, too much junk amongst learning materials, won’t name people here.
 
-## Python.
+## Python
 
 Quite in-demand, great learning materials, great community. Downside: the JS community behemoth is not there. It’s friendly and welcoming, but tools aren’t as good as around other places and it all feels very hacky (which it isn’t, but you still have a strange aftertaste), despite google’s best attempts.
 
-## C#.
+## C#
 
 Microsoft has done an outstanding job. It feels like a tank. Learning to drive it is a feat by itself, but when you finally use it — you realise how much great engineering and how many years of experience went into it. Don’t take my word for it. [Here’s an amazing article which would get you inspired to learn C# and become a .NET fan](https://medium.freecodecamp.org/why-net-technologies-are-and-will-keep-powering-our-application-9935a0ba074b)
 
