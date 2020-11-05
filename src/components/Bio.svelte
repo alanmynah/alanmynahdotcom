@@ -21,9 +21,8 @@
 <div>
 	<img src="profile-pic.png" alt="Maxi Ferreira" />
 	<p>
-		Hey! Thanks for reading! Questions, suggestions, feedback? Reach out on Twitter
-		<a rel="noopener noreferrer" href="https://www.twitter.com/alanmynah" target="_blank">@alanmynah</a>
-		and to not miss any new articles subscribe to
-		<a rel="noopener noreferrer" href="https://tinyletter.com/alanmynah" target="_blank">my newsletter</a>.
+		Hey! Thanks for reading! Be sure follow me on Twitter
+		<a rel="noopener noreferrer" href="https://www.twitter.com/alanmynah" target="_blank"> @alanmynah</a>
+		to let me know what you thought, keep in touch or ask questions.
 	</p>
 </div>
