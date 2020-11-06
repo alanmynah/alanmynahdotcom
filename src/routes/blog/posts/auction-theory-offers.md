@@ -1,5 +1,5 @@
 ---
-title: Use Nobel Prize-winning Auction Theory to choose the right offer
+title: Auction Theory applied to a job search
 date: 2020-10-27T19:04:00.000Z
 ---
 
