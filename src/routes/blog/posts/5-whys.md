@@ -28,9 +28,9 @@ But the cherry on top is placed by Teruyuki Minoura, Toyota's own former managin
 
 Because it's a straightforward simple tool, that is good *only* for a small set of simple causes.
 
-**Complex systems are not within the scope of this tool.** It's just ***A*** tool for RCA, and a simple one at that, for the exact reasons described in the section above.
+**Complex systems are not within the scope of this tool.** It's just ***A*** tool for root cause analysis (RCA), and a simple one at that, for the exact reasons described in the section above.
 
-Just to be clear, all these criticisms are valid, but it is really should be directed towards how 5 Whys is 'marketed' or more importantly, interpreted. Seriously, google it to see what I mean. The first hit will come from Mind Tools [article](https://www.mindtools.com/pages/article/newTMC_5W.htm) that describes it as
+Just to be clear, all these criticisms are valid, but it really should be directed towards how 5 Whys is 'marketed' or more importantly, interpreted. Seriously, google it to see what I mean. The first hit will come from Mind Tools [article](https://www.mindtools.com/pages/article/newTMC_5W.htm) that describes it as
 > The method is remarkably simple: when a problem occurs, you drill down to its root cause by asking "Why?" five times.
 
 and
@@ -87,7 +87,7 @@ There isn't a single technique that would work universally, but here are some th
 
 ## Closing thoughts
 
-IMO, these misunderstandings stem from our inability to transfer context. Manufacturing is geared towards repeatable, quantifiable, plannable processes. Software development, more often than not, isn't. Applying solutions to the wrong context produces unexpected results.
+IMO, these misunderstandings stem from our (those working in the software industry) inability to transfer context. Manufacturing is geared towards repeatable, quantifiable, plannable processes. Software development, more often than not, isn't. Applying solutions to the wrong context produces unexpected results.
 
 One thing you can take away from this article is this sassy quote for your internal slack.
 
