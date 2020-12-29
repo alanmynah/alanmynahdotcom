@@ -1,5 +1,5 @@
 ---
-title: 5 Whys, how to use correctly?
+title: 5 Whys, how to use it correctly?
 date: 2020-12-29T18:30:00.000Z
 ---
 
