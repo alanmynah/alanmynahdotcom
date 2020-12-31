@@ -46,4 +46,4 @@ Elixir runs on ErlangVM and has an astonishing foundation. I will leave the amaz
 -   Has easily accessible documentation
 -   Ensures you grow as a programmer.
 
-Elixir has a surprising level of maturity to its ecosystem and built-in best practices will ensure that even if you're starting your programming journey with Elixir you will not regret your choice.
+Elixir has a surprising level of maturity to its ecosystem, that feels 29 years old and not 9. and built-in best practices will ensure that even if you're starting your programming journey with Elixir you will not regret your choice.
