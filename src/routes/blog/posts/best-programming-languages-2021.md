@@ -1,6 +1,6 @@
 ---
 title: Top 3 programming languages to learn in 2021.
-date: 2020-31-12T13:00:00.000Z
+date: 2020-30-12T13:00:00.000Z
 ---
 
 JavaScript is still everywhere. But we do have a new entry.
