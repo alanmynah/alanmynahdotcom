@@ -1,6 +1,6 @@
 ---
 title: Remote vs office or the importance of having a choice.
-date: 2020-03-12T09:00:00.000Z
+date: 2021-03-12T09:00:00.000Z
 ---
 
 People with different preferences are not your enemy. They just prefer a different work environment.
