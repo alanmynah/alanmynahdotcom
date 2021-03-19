@@ -1,22 +1,3 @@
-<style>
-	figure {
-		float: right;
-		margin: -3em -7em 2em 2em;
-		max-width: 400px;
-	}
-
-	figure img {
-		border-radius: 8px;
-	}
-
-	@media (max-width: 1020px) {
-		figure {
-			float: none;
-			margin: 0 auto 2em;
-		}
-	}
-</style>
-
 <svelte:head>
 	<title>About</title>
 </svelte:head>
@@ -32,9 +13,9 @@
 		</figcaption>
 	</figure>
 	<p>
-		My name is Michael and I am an Aerospace Engineer by education, (English language) teacher and educator by
-		ardour, and a Software Engineer by vocation. Active in the Scrimba community where I share my love for code and
-		learning.
+		My name is Michael and I am an Aerospace Engineer 🚀 by education, (English language) teacher and educator 👨‍🏫 by
+		ardour, and a Software Engineer 👨‍💻 by vocation. Active in the Scrimba community where I share my love for code
+		and learning.
 	</p>
 
 	<p>
@@ -57,14 +38,33 @@
 
 	<p>
 		"Alan Mynah" is a pseudonym, where 'Alan' is after
-		<a rel="noopener noreferrer" href="https://en.wikipedia.org/wiki/Alan_Sillitoe" target="_blank">Alan Sillitoe</a>
+		<a rel="noopener noreferrer" href="https://en.wikipedia.org/wiki/Alan_Sillitoe" target="_blank">Alan Sillitoe</a
+		>
 		and 'Mynah' is because
-		<a
-			rel="noopener noreferrer"
-			href="https://www.thesprucepets.com/mynah-birds-as-pets-3975149"
-			target="_blank">mynah birds</a>
+		<a rel="noopener noreferrer" href="https://www.thesprucepets.com/mynah-birds-as-pets-3975149" target="_blank"
+			>mynah birds</a
+		>
 		are awesome.
 	</p>
 
 	<p>It's also much easier to spell than 'Rybintsev'.</p>
 </div>
+
+<style>
+	figure {
+		float: right;
+		margin: -3em -7em 2em 2em;
+		max-width: 400px;
+	}
+
+	figure img {
+		border-radius: 8px;
+	}
+
+	@media (max-width: 1020px) {
+		figure {
+			float: none;
+			margin: 0 auto 2em;
+		}
+	}
+</style>
