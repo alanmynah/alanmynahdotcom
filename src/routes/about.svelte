@@ -25,7 +25,7 @@
 
 	<p>
 		Developer at
-		<a rel="noopener noreferrer" href="https://www.huddle.com/" target="_blank">Huddle</a>
+		<a rel="noopener noreferrer" href="https://control-plane.io/" target="_blank">controlplane</a>
 		, and a factotum at
 		<a rel="noopener noreferrer" href="https://scrimba.com/" target="_blank">Scrimba</a>.
 	</p>
