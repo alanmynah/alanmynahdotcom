@@ -1,0 +1,56 @@
+==================================================================
+https://keybase.io/alanmynah
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://alanmynah.com
+  * I am alanmynah (https://keybase.io/alanmynah) on keybase.
+  * I have a public key ASDHHq3d9fkonWjdKiV3565JPqc3IK6UteApHslJjKjGPAo
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "0120c71eadddf5f9289d68dd2a2577e7ae493ea73720ae94b5e0291ec9498ca8c63c0a",
+      "host": "keybase.io",
+      "kid": "0120c71eadddf5f9289d68dd2a2577e7ae493ea73720ae94b5e0291ec9498ca8c63c0a",
+      "uid": "86ab9f8f090321ed8ee560d1d9f9c419",
+      "username": "alanmynah"
+    },
+    "merkle_root": {
+      "ctime": 1617802910,
+      "hash": "7b7e77fdd0b3be66b6a43fb56216b61b68f28236f39dfa09763c0ed901f533daebab06cfc029834418c1acf265986ad071eed26fcab9f84a1c99a56114daf51e",
+      "hash_meta": "b921f42ec1c1e9f7a2affadae5e6fae49f8faa52ba04bd90f75a97eb1f48efcb",
+      "seqno": 19568605
+    },
+    "service": {
+      "entropy": "zABhE3dHAcy+8tSi5+5Cvqg2",
+      "hostname": "alanmynah.com",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 2
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "5.6.2"
+  },
+  "ctime": 1617802937,
+  "expire_in": 504576000,
+  "prev": "801a6055a933463a4af949bc8e21d537d540671d171792ce294925959a2f03d9",
+  "seqno": 13,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgxx6t3fX5KJ1o3Sold+euST6nNyCulLXgKR7JSYyoxjwKp3BheWxvYWTESpcCDcQggBpgVakzRjpK+Um8jiHVN9VAZx0XF5LOKUkllZovA9nEIJtIac+vaZUMkLNAIq3lShVW7UrbBX12OOOK8irNm1MiAgHCo3NpZ8RAYNJCj1o/k8A3CMK6ia2aolxwSk1bZXNMeFfUcPXr0z1mSZREThRBHvLdxOJthq2n49xPRAm62551gklzcfQDAahzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEINzykBUMb6H2wjRDolCmN2mwOM2L52VQFCThIRpcPrtIo3RhZ80CAqd2ZXJzaW9uAQ==
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/alanmynah
+
+==================================================================
