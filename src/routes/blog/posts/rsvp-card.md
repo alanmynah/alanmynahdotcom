@@ -152,7 +152,7 @@ We're getting there, but it's not what we quite wanted. The magic CSS line to fl
 }
 ```
 
-o give the transition a slightly more polished look, let's add `perspective: 1000px;`.
+to give the transition a slightly more polished look, let's add `perspective: 1000px;`.
 
 ```css
 .container {
