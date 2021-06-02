@@ -3,7 +3,7 @@ title: Github from scratch
 date: 2021-06-2T18:40:00.000Z
 ---
 
-This is an cheat-sheet to go along with [the stream I did on Scrimba YouTube channel about git and GitHub](https://www.youtube.com/watch?v=DF_vp2kE2WY).
+This is a cheat-sheet to go along with [the stream I did on Scrimba YouTube channel about git and GitHub](https://www.youtube.com/watch?v=DF_vp2kE2WY).
 
 <!-- more -->
 
@@ -16,7 +16,7 @@ Pick a repo, fork it (optional) and clone it.
 Alternatively, [create a new one](##Creating-a-repo).
 
 ```sh
-# replace the below URL with the repo in your accout that you want to work with
+# replace the below URL with the repo in your account that you want to work with
 git clone https://github.com/alanmynah/alanmynahdotcom.git
 ```
 
